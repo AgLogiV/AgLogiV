@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & JavaScript**
 
-- 👨‍💻 All of my projects are available at [http://aglogi.virtyx.net/projects](http://aglogi.virtyx.net/projects)
+- 👨‍💻 All of my projects are available at [http://aglogi.virtyx.net/projects](http://aglogi.virtyx.net/#projects)
 
 - 📫 How to reach me **aleksandar.georgiev@virtyx.net**
 
