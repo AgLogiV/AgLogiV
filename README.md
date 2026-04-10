@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Virtyx](https://virtyx.net/)
 
-- 🌱 I’m currently learning **how to understand womans**
+- 🌱 I’m currently learning **to understand womans**
 
 - 👨‍💻 All of my projects are available at [http://aglogi.virtyx.net/projects](http://aglogi.virtyx.net/#projects)
 
