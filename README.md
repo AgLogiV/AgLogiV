@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **aleksandar.georgiev@virtyx.net**
 
-- 📄 Know about my experiences [http://aglogi.virtyx.net/](http://aglogi.virtyx.net/)
-
 - ⚡ Fun fact **Python is not just for programming but also for dating - Its "and" operator often brings two variables together!**
 
 <h3 align="left">Languages and Tools:</h3>
